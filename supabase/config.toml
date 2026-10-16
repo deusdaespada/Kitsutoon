@@ -1,4 +1,4 @@
-project_id = "SEU_PROJECT_ID"
+project_id = "nwqaboywgrakmgjbtdfd"
 
 [functions.redeem-vip-code]
 verify_jwt = false
